@@ -1,3 +1,5 @@
 [book]
 title = "Dreams"
+
+[output.html]
 git-repository-url = "https://github.com/0xBlue2/0xblue2.github.io"
