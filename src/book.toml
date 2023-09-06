@@ -1,5 +1,7 @@
 [book]
 title = "Dreams"
+description = "An in-progress introduction to blockchain ctf challenges."
 
 [output.html]
 git-repository-url = "https://github.com/0xBlue2/0xblue2.github.io"
+git-repository-icon = "fa-github"
