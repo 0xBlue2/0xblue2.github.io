@@ -18,4 +18,5 @@ made with mdbook using github pages + github actions:
     - https://github.com/actions/starter-workflows/blob/main/pages/mdbook.yml
     - https://docs.github.com/en/actions/using-workflows/about-workflows#using-starter-workflows
    
-  Note: I did this in the wrong order, but I think it is the easiest way.
+Note: I did this in the wrong order, but I think it is the easiest way.
+Note 2: If you're making a lot of edits, you can go to the mdbook github action workflow(called "Deploy mdBook site to Pages" by default I think) -> click 3 buttons -> disable workflow
