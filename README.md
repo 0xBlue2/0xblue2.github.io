@@ -1,5 +1,7 @@
 # [0xblue2.github.io](https://0xblue2.github.io)
-my attempt at blockchain stuff
+my attempt at ~~blockchain~~ unknown stuff
+
+not sure what to use this blog for now
 
 made with mdbook using github pages + github actions:
 - created repo with title = USERNAME.github.io
