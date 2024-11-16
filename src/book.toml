@@ -1,6 +1,6 @@
 [book]
 title = "Dreams"
-description = "An in-progress introduction to blockchain ctf challenges."
+description = "An in-progress introduction to Portswigger's Web Security Academy challenges."
 
 [output.html]
 git-repository-url = "https://github.com/0xBlue2/0xblue2.github.io"
