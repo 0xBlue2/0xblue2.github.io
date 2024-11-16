@@ -1,7 +1,7 @@
 # [0xblue2.github.io](https://0xblue2.github.io)
-my attempt at ~~blockchain~~ unknown stuff
+explanations of the Web Security Academy challenges by Portswigger
 
-not sure what to use this blog for now
+relevant steps/resources for people looking to make something similar:
 
 made with mdbook using github pages + github actions:
 - created repo with title = USERNAME.github.io
@@ -21,4 +21,5 @@ made with mdbook using github pages + github actions:
     - https://docs.github.com/en/actions/using-workflows/about-workflows#using-starter-workflows
    
 Note: I did this in the wrong order, but I think it is the easiest way.
+
 Note 2: If you're making a lot of edits, you can go to the mdbook github action workflow(called "Deploy mdBook site to Pages" by default I think) -> click 3 buttons -> disable workflow
