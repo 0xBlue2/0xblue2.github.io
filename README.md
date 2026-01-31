@@ -21,4 +21,5 @@ Here's how I remember making this website, but some of the steps could be wrong:
     - https://github.com/actions/starter-workflows/blob/main/pages/mdbook.yml
     - https://docs.github.com/en/actions/using-workflows/about-workflows#using-starter-workflows
    
-Note 1: If you're making a lot of edits and don't want the live site to update each time, you can go to the mdbook github action workflow(called "Deploy mdBook site to Pages" by default I think) -> click 3 buttons -> disable workflow
+Note 1: If you're making a lot of edits and don't want the live site to update each time, you can go disable all worflows in the repository settings:
+Instructions here: https://github.com/orgs/community/discussions/58971
