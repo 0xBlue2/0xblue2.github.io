@@ -1,3 +1,3 @@
 # About the Website
 
-Here are various notes to keep up with my classes.
+This is a website to help me keep track of notes and learn basic web dev skills.
