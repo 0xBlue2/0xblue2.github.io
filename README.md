@@ -1,9 +1,10 @@
 # [0xblue2.github.io](https://0xblue2.github.io)
 
-my website
+Website that uses github pages + mdbook
+
+mdbook Docs: https://rust-lang.github.io/mdBook/
 
 Here's how I remember making this website, but some of the steps could be wrong:
-(I used github pages with mdbook)
 
 - created a repository with title "USERNAME.github.io"
   - included a README.md file in the root, but I don't think it's necessary
