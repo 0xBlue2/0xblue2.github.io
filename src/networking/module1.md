@@ -20,5 +20,6 @@ To simplify grading, the professor uses one specific version of Packet Tracer (5
 The professor makes a discussion post with the link to Packet Tracer 5.1. Just unzip and run the installer inside.
 
 ## Installing VirtualBox
-VirtualBox is what we're going to use to run our virtualized versions of Windows and Linux. After downloading the right installer ([https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)), 
+VirtualBox is what we're going to use to run our virtualized versions of Windows and Linux. After downloading the right installer ([https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)), you should have VirtualBox installed.
+![VirtualBox download options - for Windows, MacOS, Linux, and Solaris hosts](../images/virtualbox_download_options.png)
 
