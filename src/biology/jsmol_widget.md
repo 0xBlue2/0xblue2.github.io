@@ -11,6 +11,7 @@
         src: "null",
     }
     document.addEventListener('DOMContentLoaded', (event) => {
+        delete Jmol._tracker
         document.getElementById("area").innerHTML = Jmol.getAppletHtml("myJmol", Info)
     });
 
