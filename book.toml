@@ -5,3 +5,5 @@ description = "Notes for my classes"
 [output.html]
 git-repository-url = "https://github.com/0xBlue2/0xblue2.github.io"
 no-section-label = true
+# additional-css = ["css/default.css"]
+additional-js = ["src/jsmol/JSmol.min.js"]
